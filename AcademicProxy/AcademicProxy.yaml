@@ -1,0 +1,5 @@
+# NAME: AcademicProxy
+# AUTHOR: Staten-Wang
+# REPO: https://github.com/Staten-Wang/clash-rules-academic
+payload:
+  - DOMAIN-SUFFIX,aaai.org

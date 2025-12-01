@@ -1,0 +1,12 @@
+# NAME: AcademicDatabase
+# AUTHOR: Staten-Wang
+# REPO: https://github.com/Staten-Wang/clash-rules-academic
+payload:
+  - DOMAIN-SUFFIX,webofscience.com
+  - DOMAIN-SUFFIX,clarivate.com
+  - DOMAIN-SUFFIX,elsevier.com
+  - DOMAIN-SUFFIX,nature.com
+  - DOMAIN-SUFFIX,sciencedirect.com
+  - DOMAIN-SUFFIX,springer.com
+  - DOMAIN-SUFFIX,ieeexplore.ieee.org
+  - DOMAIN-SUFFIX,cnki.net
